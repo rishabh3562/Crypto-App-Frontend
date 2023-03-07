@@ -3,12 +3,12 @@ import assets from "./assets";
 export const NFTData = [
   {
     id: "NFT-01",
-    name: "Abstracto #312",
+    name: "Ethereum",
     creator: "Putri Intan",
-    price: 4.25,
+    price: 24.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
-    image: assets.nft01,
+    image: assets.nft03,
     bids: [
       {
         id: "BID-11",
@@ -40,7 +40,7 @@ export const NFTData = [
     price: 7.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
-    image: assets.nft02,
+    image: assets.nft04,
     bids: [
       {
         id: "BID-21",

@@ -9,7 +9,7 @@ const Homeheader = ({ onSearch }) => {
                 padding: SIZES.font,
             }}
         >
-            <View
+            {/* <View
                 style={{
                     flexDirection: "row",
                     justifyContent: "space-between",
@@ -40,7 +40,7 @@ const Homeheader = ({ onSearch }) => {
                         }}
                     />
                 </View>
-            </View>
+            </View> */}
 
             <View style={{ marginVertical: SIZES.font }}>
                 <Text
@@ -50,7 +50,7 @@ const Homeheader = ({ onSearch }) => {
                         color: COLORS.white,
                     }}
                 >
-                    Hello Victoria 👋
+                    Hello Visior 🧑‍💻
                 </Text>
 
                 <Text
@@ -61,7 +61,7 @@ const Homeheader = ({ onSearch }) => {
                         marginTop: SIZES.base / 2,
                     }}
                 >
-                    Let’s find masterpiece Art
+                    Let’s find Some Cryptos
                 </Text>
             </View>
 
